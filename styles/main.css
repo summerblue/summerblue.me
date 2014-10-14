@@ -11,4 +11,7 @@ body {
 		float: none !important;
 		border: none;
     }
+    .project-thumbnail {
+         width: 100%; 
+    }
 }
